@@ -110,7 +110,7 @@ const resume = () => {
             Stripe
           </p>
           <p className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            On Demand Delivery On Demand Delivery is a platform in which user
+            On Demand Delivery is a platform in which user
             can order food online from desired restaurants. Once a customer done
             their payment if not COD and order the food then order will go to
             the restaurant and restaurant owner can accept/reject the order.

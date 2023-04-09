@@ -24,7 +24,7 @@ const About = () => {
             My main role is to create SPA with performance in mind. I started
             learning javascript and was even more enjoying to create websites
             interactive. I am now spending my time building projects with React
-            JS, Next.Js, Tailwind CSS and learning new technologies.
+            JS, Next.Js, Redux, TypeScript and Tailwind CSS and learning new technologies.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
