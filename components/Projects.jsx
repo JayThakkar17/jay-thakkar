@@ -16,12 +16,6 @@ const Projects = () => {
         <h2 className='py-4'>What I&apos;ve Built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='PineApple Appartments'
-            backgroundImg={PineAppleImg}
-            projectUrl='/pineapple'
-            tech='React JS'
-          />
-          <ProjectItem
             title='Crypto World'
             backgroundImg={cryptoImg}
             projectUrl='/crypto'
