@@ -16,7 +16,7 @@ const About = () => {
             / / I am not an average developer
           </p>
           <p className='py-2 text-gray-600'>
-            I am a Web developer and designer. From the past 2 years I have been
+            I am a Web developer and designer. From the past 3 years I have been
             working as a React developer. I am always looking forward to work on
             meaningful projects.
           </p>
